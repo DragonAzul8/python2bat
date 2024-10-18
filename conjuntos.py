@@ -1,4 +1,4 @@
-conjunto1 = {1,2,3,4}
+conjunto1 = {1,2,3,4}   #NO se pueden repetir elementos#
 conjunto2 = {2,4,6}
 
 conjunto1.add(5)
