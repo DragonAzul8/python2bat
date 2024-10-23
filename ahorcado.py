@@ -5,7 +5,7 @@
     #Si --> escribir ____a____
     #NO --> quitar intentos -1
 #(while)
-palabraSecreta = "perro"
+palabraSecreta = "dragon"
 
 letrasCorrectas = []
 letrasIncorrectas = []
